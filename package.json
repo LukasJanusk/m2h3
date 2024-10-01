@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": "16.20.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.7.0"
+  }
+}
